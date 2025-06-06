@@ -1,0 +1,6 @@
+@TrueStory.Products.Api_HostAddress = http://localhost:5090
+
+GET {{TrueStory.Products.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
